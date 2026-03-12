@@ -2,7 +2,7 @@ import express from "express";
 const app = express ();
 
 app.get("/", (req, res) => {
-res.send({message:"Servidor em Execução"*, success: true});
+res.send({message:"Servidor em Execução", success: true});
 
 });
 app.get("/equipe", (req,res) => {
