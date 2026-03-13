@@ -1,0 +1,6 @@
+# Via Extensão VS Code REST Client (Huachao Mao)
+@baseUrl = http://localhost:3000
+# Endpoint "/"
+GET {{baseUrl}}/
+# Endpoint "/equipe"
+GET {{baseUrl}}/equipe
