@@ -1,0 +1,1 @@
+Projetores de back-end (ou mais comumente, desenvolvedores back-end) são os profissionais responsáveis pela "parte de trás" de um site, aplicativo ou sistema. Eles cuidam de tudo o que não é visível diretamente ao usuário, mas que é fundamental para o funcionamento da aplicação, como regras de negócio, banco de dados, servidores e APIs
