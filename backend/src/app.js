@@ -34,3 +34,11 @@ app.get('/yasmin-emanuelly-marilia/emanuelly', (req, res) => {
     info: "Amo o Ceará Sport Club"
   });
 });
+
+app.get('/yasmin-emanuelly-marilia/yasmin', (req, res) => {
+  res.json({
+    nome: "Yasmin",
+    matricula: "20251131000272",
+    info: "Eu gosto de ler"
+  });
+});
