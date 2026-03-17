@@ -16,3 +16,12 @@ app.get("/equipe", (req,res) => {
 app.listen(process.env.PORT || 3000, () => {
 console.log("Server running on localhost:3000");
 });
+
+
+app.get('/yasmin-emanuelly/marilia', (req, res) => {
+  res.json({
+    nome: "Marília",
+    matricula: "20251131000302",
+    info: "Amo o Corinthians"
+  });
+});
