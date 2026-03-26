@@ -10,6 +10,7 @@ app.get("/", (req, res) => {
 res.send({message: "Servidor em Execução"*, success: true });
 });
 });
+
 app.listen(3000, () => {
 console.log("Server running on localhost:3000");
 });
