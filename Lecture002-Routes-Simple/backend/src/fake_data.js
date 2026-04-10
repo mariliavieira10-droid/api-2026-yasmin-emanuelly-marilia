@@ -62,4 +62,13 @@ disponivel: true,
 exemplares: 10,
 },
 ];
+const listaDeEditoras = [
+  { id: 1, nome: "Companhia das Letras", cnpj: "00.000.000/0001-01" },
+  { id: 2, nome: "Editora Record", cnpj: "00.000.000/0001-02" },
+  { id: 3, nome: "Rocco", cnpj: "00.000.000/0001-03" },
+  { id: 4, nome: "Intrínseca", cnpj: "00.000.000/0001-04" },
+  { id: 5, nome: "Saraiva", cnpj: "00.000.000/0001-05" },
+];
+
+export { listaDeEditoras };
 export {listaDeLivros};
